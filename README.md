@@ -1,6 +1,7 @@
 # curso-PHP7-git
 O início desse repo se iniciou criando
 > mkdir curso
+<br>
 > git init
 
 Escrevendo esse README pelo vim, fiz os comandos:
