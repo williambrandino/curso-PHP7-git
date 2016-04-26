@@ -11,3 +11,7 @@ Escrevendo esse README pelo vim, fiz os comandos:
 
 Daí, após gravar meus remotes, fiz meu primeiro push
 > git push origin master
+
+Passo atual, vamos criar **TAGS!**
+<br>
+A partir da Versão *0.1.1* criada, terá essa nova atualização!
